@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ItemCard.vue matches snapshot 1`] = `
+<div
+  class="column"
+>
+  <div
+    class="card"
+  >
+    <header
+      class="card-header"
+    >
+      <p
+        class="card-header-title has-text-danger"
+      >
+        
+        title
+      
+      </p>
+    </header>
+     
+    <footer
+      class="card-footer card-footer--not-buyed"
+    >
+      <p
+        class="card-footer-item is-justify-content-flex-end has-text-weight-bold"
+      >
+        
+        $21
+      
+      </p>
+    </footer>
+  </div>
+</div>
+`;
