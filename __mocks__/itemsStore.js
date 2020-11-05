@@ -5,7 +5,12 @@ export const items = {
             {
                 title: 'Hamburguesa',
                 price: 21,
-                buyed: false
+                buyed: true
+            },
+            {
+                title: 'Empanada',
+                price: 42,
+                buyed: true
             }
         ]
     },

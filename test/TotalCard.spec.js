@@ -23,4 +23,8 @@ describe('TotalCard', () => {
     it('renders total price', () => {
         expect(wrapper.find('.card-footer-item').text()).toContain(props.price)
     })
+
+    it('matches snapshot', () => {
+        expect(wrapper.element).toMatchSnapshot()
+    })
 })

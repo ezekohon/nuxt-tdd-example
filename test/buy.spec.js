@@ -33,6 +33,6 @@ afterEach(() => {
 
 describe('buy', () => {
     it('renders total price', () => {
-        expect(wrapper.find(".total-price").text()).toBe("0")
+        expect(wrapper.find(".total-price").text()).toBe("63")
     })
 })

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TotalCard matches snapshot 1`] = `
+<div
+  class="column"
+>
+  <div
+    class="card"
+  >
+    <header
+      class="card-header"
+    >
+      <p
+        class="card-header-title has-text-danger"
+      >
+        
+        Total
+      
+      </p>
+    </header>
+     
+    <footer
+      class="card-footer"
+    >
+      <p
+        class="card-footer-item has-text-weight-bold"
+      >
+        
+        $21
+      
+      </p>
+    </footer>
+  </div>
+</div>
+`;
